@@ -1,0 +1,2 @@
+data_load["name"], data_load["id"], data_load["city"], data_load["zipcode"], data_load["website"], data_load["email"], data_load["phone"], data_load["company_type"], data_load["postal_address"], data_load["description"], data_load["twitter"], data_load["linkedin"], data_load["longitude"], data_load["latitude"])
+name, id, city, zipcode, address, website, email, phone, company_type, postal_address, description,twitter, Linkedin, lognitude, latitude
